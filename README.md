@@ -1,5 +1,7 @@
 # Group_Shell
-Trabalho 1 de Sistemas Operacionais
+Primeiro Trabalho de Sistemas Operacionais
+
+Professora Roberta Lima Gomes
 
 Implementação de uma shell denominada gsh (group shell).
 
